@@ -1,0 +1,3 @@
+[submodule "git_snippet"]
+	path = git_snippet
+	url = git@gist.github.com:7224effdf722536a076ce918e250846d

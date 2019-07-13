@@ -1,3 +1,21 @@
 [submodule "git_snippet"]
 	path = git_snippet
 	url = git@gist.github.com:7224effdf722536a076ce918e250846d
+[submodule "table_design_point"]
+	path = table_design_point
+	url = git@gist.github.com:c3e831aef038743b019dd18c9fbdaa68
+[submodule "jmeter"]
+	path = jmeter
+	url = git@gist.github.com:97aae1c90e559f7a4a531816bfe2abc3
+[submodule "thinking_model"]
+	path = thinking_model
+	url = git@gist.github.com:f1e2941efae0e1103707c5938b6636b8
+[submodule "linux_env_cmd"]
+	path = linux_env_cmd
+	url = git@gist.github.com:dad941b02185032e6d00356842a223c9
+[submodule "linux_lib"]
+	path = linux_lib
+	url = git@gist.github.com:cbb2925e011433bc194a6eaa6bc4483f
+[submodule "design_ptn_doc"]
+	path = design_ptn_doc
+	url = git@gist.github.com:9bb9ad75338da4fe28ec163cb627240f

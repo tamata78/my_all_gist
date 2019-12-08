@@ -7,5 +7,5 @@ git submodule add git@gist.github.com:7224effdf722536a076ce918e250846d git_snipp
 
 # Clone all gists
 ```
-git clone --recurse-submodules https://github.com/tamata78/mygist
+git clone --recurse-submodules https://github.com/tamata78/my_all_gist
 ```
